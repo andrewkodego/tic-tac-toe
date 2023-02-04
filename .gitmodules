@@ -1,0 +1,3 @@
+[submodule "tic-tac-toe-client"]
+	path = tic-tac-toe-client
+	url = git@github.com:andrewkodego/tic-tac-toe-client.git
